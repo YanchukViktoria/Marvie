@@ -423,7 +423,7 @@
     font-weight: 400;
     line-height: 1;
 
-    margin-topgit: 15px;
+    margin-bottom: 15px;
 
     color: var(--nav--button-bg-nav--hero-title--button-text-color--names-color--process-title--title-projects--projects-button-text--team-button-text--title-touch--button-text-touch);
 }    
@@ -437,7 +437,7 @@
 
     margin-bottom: 42px;
 
-    color: c=var(--hero-p--people-desc--desc-in-bg--p-process--desc-process--desc-projects--team-desc--p-touch--footer-p);
+    color: var(--hero-p--people-desc--desc-in-bg--p-process--desc-process--desc-projects--team-desc--p-touch--footer-p);
 }
 
 .feauture-list{
